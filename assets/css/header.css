@@ -1,0 +1,73 @@
+
+
+.text h1 {
+    position:absolute;
+    top: 15%;
+    padding: 50px;
+    color: aliceblue;
+    font-size: 32px;
+}
+
+
+.global1 {
+    display: flex;
+   justify-content: space-around;
+}
+
+.card1 {
+    background-color: #FF4600;
+    width: 50%;
+    margin: -5px;
+    height: 200px;
+    /* display: grid; */
+    justify-content: center;
+    align-items: center;
+}
+
+.card1 h2 {
+    color: aliceblue;
+    font-size: 40px;
+    margin: 19px 140px;
+    text-align: center;
+}
+
+.card1 p {
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    font-size: 28px;
+    font-weight: 800;
+    
+}
+
+.card2 {
+    background-color:#FF4B00;
+    margin: -5px;
+    height: 200px;
+    width: 50%;
+    /* display: grid; */
+    justify-content: center;
+    align-items: center;
+    
+   
+}
+
+.card2 h2 {
+    color: aliceblue;
+    font-size: 40px;
+    margin: 19px 101px;
+    text-align: center;
+    
+}
+
+.card2 p {
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    font-size: 28px;
+    font-weight: 800;
+    margin: 31px 60px;
+
+}
+
+ 

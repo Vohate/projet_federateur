@@ -1,0 +1,156 @@
+.global2 {
+    display: ruby;
+    justify-content: center;
+   
+    justify-items: center;
+}
+
+
+.pr22 {
+    width: 35%;
+    margin: 14px;
+    
+}
+
+.pr2s {
+    margin: 60px 0px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border: solid;
+    
+}
+.pr4s {
+    margin: -50px auto;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 0px 10px 12px 4px gray;
+
+}
+
+
+
+.pr11 {
+    width: 25%;
+    margin: 10px auto;
+}
+
+.pr1 {
+    margin: 65px;
+    background-color: rgb(255, 255, 255);
+    height: 44%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    box-shadow: 0px 10px 12px 4px gray;
+}
+
+.pr1 p {
+    text-align: center;
+}
+
+.pr1:hover {
+    background-color:#ff4600;
+}
+
+.pr1-content {
+    text-align: center;
+    padding: 50px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    /* transition: margin-right 2s ease-in-out; */
+}
+
+
+
+.pr1:hover .pr1-content{
+    opacity: 1;
+
+}
+
+.pr1:hover .card-img {
+    display: none;
+} 
+
+.pr1 p {
+    font-weight: bold;
+    text-align: center;
+}
+
+.pr2 {
+    margin: 65px;
+    background-color: rgb(255, 255, 255);
+    height: 44%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    box-shadow: 0px 10px 12px 4px gray;
+}
+
+.pr2 p {
+    text-align: center;
+}
+
+.pr3 {
+    margin: 65px;
+    background-color: rgb(255, 255, 255);
+    height: 44%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    box-shadow: 0px 10px 12px 4px gray;
+}
+
+.pr3 p {
+    text-align: center;
+}
+
+.pr4 {
+    margin: 65px;
+    background-color: rgb(255, 255, 255);
+    height: 44%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    box-shadow: 0px 10px 12px 4px gray;
+}
+
+.pr4 p {
+    text-align: center;
+}
+
+.pr5 {
+    margin: 65px;
+    background-color: rgb(255, 255, 255);
+    height: 44%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    box-shadow: 0px 10px 12px 4px gray;
+}
+
+.pr5 p {
+    text-align: center;
+}
+
+.pr6 {
+    margin: 65px;
+    background-color: rgb(255, 255, 255);
+    height: 44%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    box-shadow: 0px 10px 12px 4px gray;
+}
+
+.pr6 p {
+    text-align: center;
+}
