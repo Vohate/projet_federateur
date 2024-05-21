@@ -1,7 +1,7 @@
 .global2 {
+    margin: 10px 85px;
     display: ruby;
     justify-content: center;
-   
     justify-items: center;
 }
 
@@ -13,10 +13,10 @@
 }
 
 .pr2s {
-    margin: 60px 0px;
+    margin: 200px 0px;
     background-color: rgb(255, 255, 255);
     border-radius: 10px;
-    border: solid;
+
     
 }
 .pr4s {
@@ -49,11 +49,12 @@
 }
 
 .pr1 p {
+    font-weight: bold;
     text-align: center;
 }
 
 .pr1:hover {
-    background-color:#ff4600;
+    background-color:#ffffff;
 }
 
 .pr1-content {
@@ -71,14 +72,11 @@
 
 }
 
-.pr1:hover .card-img {
+/* .pr1:hover .card-img {
     display: none;
-} 
+}  */
 
-.pr1 p {
-    font-weight: bold;
-    text-align: center;
-}
+
 
 .pr2 {
     margin: 65px;
@@ -95,6 +93,27 @@
     text-align: center;
 }
 
+.pr2:hover {
+    background-color:#ffffff;
+}
+
+.pr2-content {
+    text-align: center;
+    padding: 50px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    /* transition: margin-right 2s ease-in-out; */
+}
+
+.pr2:hover .pr2-content{
+    opacity: 1;
+
+}
+
+/* .pr2:hover .card-img {
+    display: none;
+}  */
+
 .pr3 {
     margin: 65px;
     background-color: rgb(255, 255, 255);
@@ -109,6 +128,28 @@
 .pr3 p {
     text-align: center;
 }
+
+.pr3:hover {
+    background-color:#ffffff;
+}
+
+.pr3-content {
+    text-align: center;
+    padding: 50px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    /* transition: margin-right 2s ease-in-out; */
+}
+
+.pr3:hover .pr3-content{
+    opacity: 1;
+
+}
+
+/* .pr3:hover .card-img {
+    display: none;
+} */
+
 
 .pr4 {
     margin: 65px;
@@ -125,6 +166,28 @@
     text-align: center;
 }
 
+.pr4:hover {
+    background-color:#ffffff;
+}
+
+.pr4-content {
+    text-align: center;
+    padding: 50px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    /* transition: margin-right 2s ease-in-out; */
+}
+
+.pr4:hover .pr4-content{
+    opacity: 1;
+
+}
+
+/* .pr4:hover .card-img {
+    display: none;
+} */
+
+
 .pr5 {
     margin: 65px;
     background-color: rgb(255, 255, 255);
@@ -140,6 +203,28 @@
     text-align: center;
 }
 
+.pr5:hover {
+    background-color:#ffffff;
+}
+
+.pr5-content {
+    text-align: center;
+    padding: 50px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    /* transition: margin-right 2s ease-in-out; */
+}
+
+.pr5:hover .pr5-content{
+    opacity: 1;
+
+}
+
+/* .pr5:hover .card-img {
+    display: none;
+} */
+
+
 .pr6 {
     margin: 65px;
     background-color: rgb(255, 255, 255);
@@ -154,3 +239,24 @@
 .pr6 p {
     text-align: center;
 }
+
+.pr6:hover {
+    background-color:#ffffff;
+}
+
+.pr6-content {
+    text-align: center;
+    padding: 50px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    /* transition: margin-right 2s ease-in-out; */
+}
+
+.pr6:hover .pr6-content{
+    opacity: 1;
+
+}
+
+/* .pr6:hover .card-img {
+    display: none;
+} */
