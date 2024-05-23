@@ -108,7 +108,7 @@ body {
     display: flex;
     text-align: center;
     justify-content: center;
-    line-height: 2;
+    line-height: 1.6;
     margin: 36px;
 }
 
@@ -134,7 +134,7 @@ body {
     display: flex;
     text-align: center;
     justify-content: center;
-    line-height: 1.2;
+    line-height: 1.6;
     margin: 36px;
     font-size: 20px;
     font-weight: bold;
