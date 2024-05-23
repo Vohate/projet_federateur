@@ -1,40 +1,41 @@
 .global2 {
-    margin: 10px 85px;
+    margin: 10px 74px;
     display: ruby;
     justify-content: center;
     justify-items: center;
 }
 
+.logo1 {
+    margin: 25px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.logo2{
+    margin: 25px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
 
 .pr22 {
     width: 35%;
-    margin: 14px;
+    margin: 20px 20px;  
+    padding: 10px 10px;
+}
+
+.video1 {
+    padding: 0px 0px;
     
 }
-
-.pr2s {
-    margin: 200px 0px;
-    background-color: rgb(255, 255, 255);
-    border-radius: 10px;
-   
-}
-
-/* .pr4s {
-    margin: -50px auto;
-    background-color: #ffffff;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 10px;
-    box-shadow: 0px 10px 12px 4px gray;
-
-} */
-
-
 
 .pr11 {
     width: 25%;
     margin: 10px auto;
+    /* padding: 10px 10px; */
+    /* padding-top: 50px; */
 }
 
 .pr1 {
@@ -43,7 +44,6 @@
     width: 200px;
     display: flex;
     align-items: center;
-    justify-content: center;
     border-radius: 10px;
     box-shadow: 0px 10px 12px 4px gray;
 }
@@ -51,12 +51,13 @@
 .pr1 p {
     font-weight: bold;
     text-align: center;
-    padding: 10px;
+    padding: 10px 10px;
 }
 
 .icon1 {
     margin: 10px 10px;
-    padding: 10px;
+    padding: 10px 10px;
+    
 
 }
 
@@ -66,7 +67,6 @@
     width: 200px;
     display: flex;
     align-items: center;
-    justify-content: center;
     border-radius: 10px;
     box-shadow: 0px 10px 12px 4px gray;
 }
@@ -74,12 +74,12 @@
 .pr2 p {
     text-align: center;
     font-weight: bold;
-    padding: 10px;
+    padding: 10px 35px;
 }
 
 .icon2 {
     margin: 10px 10px;
-    padding: 10px;
+    padding: 10px 10px;
     
 
 }
@@ -90,7 +90,6 @@
     width: 200px;
     display: flex;
     align-items: center;
-    justify-content: center;
     border-radius: 10px;
     box-shadow: 0px 10px 12px 4px gray;
 }
@@ -98,12 +97,12 @@
 .pr3 p {
     text-align: center;
     font-weight: bold;
-    padding: 10px;
+    padding: 10px 10px;
 }
 
 .icon3 {
     margin: 10px 10px;
-    padding: 10px;
+    padding: 10px 10px;
 
 }
 
@@ -113,7 +112,6 @@
     width: 200px;
     display: flex;
     align-items: center;
-    justify-content: center;
     border-radius: 10px;
     box-shadow: 0px 10px 12px 4px gray;
 }
@@ -121,12 +119,12 @@
 .pr4 p {
     text-align: center;
     font-weight: bold;
-    padding: 10px;
+    padding: 10px 10px;
 }
 
 .icon4 {
     margin: 10px 10px;
-    padding: 10px;
+    padding: 10px 7px;
 
 }
 
@@ -136,7 +134,6 @@
     width: 200px;
     display: flex;
     align-items: center;
-    justify-content: center;
     border-radius: 10px;
     box-shadow: 0px 10px 12px 4px gray;
 }
@@ -144,12 +141,12 @@
 .pr5 p {
     text-align: center;
     font-weight: bold;
-    padding: 10px;
+    padding: 10px 10px;
 }
 
 .icon5 {
     margin: 10px 10px;
-    padding: 10px;
+    padding: 10px 10px;
 
 }
 
@@ -159,7 +156,6 @@
     width: 200px;
     display: flex;
     align-items: center;
-    justify-content: center;
     border-radius: 10px;
     box-shadow: 0px 10px 12px 4px gray;
 }
@@ -167,11 +163,11 @@
 .pr6 p {
     text-align: center;
     font-weight: bold;
-    padding: 10px;
+    padding: 10px 10px;
 }
 
 .icon6 {
     margin: 10px 10px;
-    padding: 10px;
+    padding: 10px 10px;
 
 }
