@@ -1,6 +1,6 @@
 .global2 {
-    margin: 10px 74px;
-    display: ruby;
+    /* margin: 10px 74px; */
+    display: flex;
     justify-content: center;
     justify-items: center;
 }
@@ -32,8 +32,16 @@
 }
 
 .pr11 {
-    width: 25%;
-    margin: 10px auto;
+    width: 19%;
+    margin: 80px auto;
+    /* padding: 10px 10px; */
+    /* padding-top: 50px; */
+}
+
+
+.pr33 {
+    width: 21%;
+    margin: 80px auto;
     /* padding: 10px 10px; */
     /* padding-top: 50px; */
 }
